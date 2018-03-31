@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Volume Converter</string>
+    <string name="convert">\u21B5</string>
+    
+    <string-array name="units">
+        <item>milliliters</item>
+        <item>teaspoons</item>
+        <item>centiliters</item>
+        <item>tablespoons</item>
+        <item>fluid ounces</item>
+        <item>deciliters</item>
+        <item>cups</item>        
+        <item>pints</item>
+        <item>quarts</item>
+        <item>liters</item>
+        <item>gallons</item>
+        <item>dekaliters</item>
+        <item>hectoliters</item>
+        <item>kiloliters</item>
+    </string-array>  
+
+</resources>
